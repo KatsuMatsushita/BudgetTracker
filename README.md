@@ -29,6 +29,7 @@ For the client
 ## Usage <a name="usage"></a>
 1. On the application page, enter the name of the transaction and the amount.
 2. Depending on if the transaction is adding or subtracting funds, click on the appropriate button
+3. ![Add Subtract Funds](https://user-images.githubusercontent.com/85419207/141049003-a05996aa-9fea-4544-9513-b4e3fb1cc2ed.jpg)
 
 
 ## Contribution Guidelines <a name="contribution"></a>
